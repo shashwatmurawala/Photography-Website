@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Aperture Template
+title: SM Wallpapers
 url: "https://cosmic-hippopotamus.cloudvent.net"
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: Wallpaper Portfolio
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Aperture Template
+  name: SM Wallpapers
   links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
+    - https://github.com/shashwatmurawala
 
 # -----
 # Build
@@ -47,7 +47,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
 
 # -----------
 # CloudCannon
